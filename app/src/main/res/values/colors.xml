@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#3F51B5</color>-->
+
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textColor">#FFFFFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="dividerColor">#B6B6B6</color>
+
+    <color name="tabIndicator">#0000FE</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="button_material_light">#AAF2F2F2</color>
+    <color name="ripple_material_light">#ECECEC</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+
+    <color name="tab_unselected">#7B88CC</color>
+
+    <color name="colorAccents">#FF4081</color>
+
+    <color name="refresh_progress_1">#e91e63</color>
+    <color name="refresh_progress_2">#00b0ff</color>
+    <color name="refresh_progress_3">#FF4081</color>
+
+
+    <color name="primary">#FF9800</color>
+    <color name="primary_dark">#F57C00</color>
+    <color name="primary_light">#FFE0B2</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="black">#ffeeeeee</color>
+    <color name="super_light_grey">#BDC0BA</color>
+
+
+</resources>

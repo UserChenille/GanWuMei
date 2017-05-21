@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navItem1"
+            android:icon="@drawable/ic_home_purple_700_24dp"
+            android:title="@string/nav_home"/>
+        <item
+            android:id="@+id/navItem2"
+            android:icon="@drawable/ic_account_balance_purple_700_24dp"
+            android:title="@string/nav_favorite"/>
+        <item
+            android:id="@+id/navItem3"
+            android:icon="@drawable/ic_assignment_purple_700_24dp"
+            android:title="@string/nav_about"/>
+        <item
+            android:id="@+id/navItem4"
+            android:icon="@drawable/ic_code_purple_700_24dp"
+            android:title="@string/nav_somewords"/>
+    </group>
+</menu>
