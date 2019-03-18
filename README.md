@@ -1,7 +1,5 @@
 # MrChen
-My First Github Test
-第一个Dagger2+Retrofit2+RxJava+Reaml的练手项目，以前做的大部分都是公司的项目，出于保密协议无法上传到网上，
-，好不容易找到很久以前做的一个练手项目，为了写进简历现在才上传，API接口由gank.io提供。
+一个Dagger2+Retrofit2+RxJava+Reaml的练手项目，以前做的大部分都是公司的项目，API接口由gank.io提供。
 
 
 关于开源库：
