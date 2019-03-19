@@ -1,5 +1,6 @@
-# MrChen
-一个Dagger2+Retrofit2+RxJava+Reaml的练手项目，以前做的大部分都是公司的项目，API接口由gank.io提供。
+一个使用Dagger2+Retrofit2+RxJava+Reaml搭建的练手项目，API接口由gank.io提供，本是对自己学习的一个记录。
+
+如果有人正好在学习这些框架，可以下载下来用于参照（不用客气^_^）。
 
 
 关于开源库：
